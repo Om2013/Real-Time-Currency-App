@@ -14,6 +14,7 @@ countries={
     "INDIA":{"currency":"INR","pos":(0.72,0.385)}
     }
 
+# EXAMPLE
 # USA["currency"] -> USD
 # USA.keys() -> currency,pos 
 # USA.values() -> "USD",(0.14,0.41)
